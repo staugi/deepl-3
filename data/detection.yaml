@@ -1,0 +1,9 @@
+train: ../dataset/JPEGImages/train/ 
+val:  ../dataset/JPEGImages/val/ 
+test: ../dataset/JPEGImages/test/ 
+
+# number of classes
+nc: 2
+
+# class names
+names: ["motorbike", "chair"]
