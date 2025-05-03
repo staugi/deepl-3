@@ -1,6 +1,6 @@
-train: ../dataset/JPEGImages/train/ 
-val:  ../dataset/JPEGImages/val/ 
-test: ../dataset/JPEGImages/test/ 
+train: ../dataset/images/train/ 
+val:  ../dataset/images/val/ 
+test: ../dataset/images/test/ 
 
 # number of classes
 nc: 2
