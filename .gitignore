@@ -1,7 +1,11 @@
 .vscode
-dataset
-dataset_raw
+dataset*
 yolov7
 archive.zip
 .ipynb_checkpoints/
+detectron2
+data_dictionary.md
+*_resulsts
+*_results
+
 
